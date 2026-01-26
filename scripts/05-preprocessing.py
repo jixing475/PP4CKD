@@ -1,0 +1,54 @@
+from rdkit import Chem
+try:
+    from rdkit.Chem.MolStandardize import charge
+except ImportError:
+    # For newer RDKit versions
+    from rdkit.Chem.MolStandardize.rdMolStandardize import Uncharger as UnchargerClass
+    class charge:
+        @staticmethod
+        def Uncharger():
+            return UnchargerClass()
+
+# preprocess a smiles string
+def preprocess_smiles(smi: str) -> str:
+    try:
+        # step 1: parse smiles
+        mol = Chem.MolFromSmiles(smi)
+        if mol is None:
+            return None
+        # step 2: converting the smiles to the non-isomeric format
+        non_iso_smiles = Chem.MolToSmiles(mol, isomericSmiles=False)
+        if not non_iso_smiles:
+            return None
+        # step 3: remove counterions
+        frags = Chem.GetMolFrags(Chem.MolFromSmiles(smi), asMols=True, sanitizeFrags=False)
+        largest_frag = max(frags, key=lambda m: m.GetNumAtoms())
+        cleaned_smiles = Chem.MolToSmiles(largest_frag, isomericSmiles=False)
+        if not cleaned_smiles:
+            return None
+        # step 4: correct valence
+        mol = Chem.MolFromSmiles(cleaned_smiles, sanitize=True)
+        if mol is None:
+            return None
+        valence_corrected_smiles = Chem.MolToSmiles(mol, isomericSmiles=False)
+        if not valence_corrected_smiles:
+            return None
+        # step 5: neutralize
+        uncharger = charge.Uncharger()
+        mol = Chem.MolFromSmiles(valence_corrected_smiles)
+        uncharged_mol = uncharger.uncharge(mol)
+        final_smiles = Chem.MolToSmiles(uncharged_mol, isomericSmiles=False)
+        return final_smiles
+    except Exception as e:
+        print(f"error preprocessing {smi}: {e}")
+        return None
+def preprocess_smiles_list(smiles_list):
+    valid = []
+    invalid = []
+    for smi in smiles_list:
+        processed = preprocess_smiles(smi)
+        if processed:
+            valid.append(processed)
+        else:
+            invalid.append(smi)
+    return valid, invalid

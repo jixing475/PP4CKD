@@ -1,0 +1,10 @@
+CHEMBL_ID	PREF_NAME
+CHEMBL1862	Tyrosine-protein kinase ABL
+CHEMBL203	Epidermal growth factor receptor erbB1
+CHEMBL2146302	Glutaminase kidney isoform, mitochondrial
+CHEMBL220	Acetylcholinesterase
+CHEMBL222	Norepinephrine transporter
+CHEMBL2391	11-beta-hydroxysteroid dehydrogenase 1
+CHEMBL240	HERG
+CHEMBL241	Phosphodiesterase 3A
+CHEMBL279	Vascular endothelial growth factor receptor 2

@@ -1,0 +1,6 @@
+SMILES,ID,Name
+CCO,example_001,Ethanol
+CC(=O)O,example_002,Acetic acid
+c1ccccc1,example_003,Benzene
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C,example_004,Caffeine
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,example_005,Ibuprofen

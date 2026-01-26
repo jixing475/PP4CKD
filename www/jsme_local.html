@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>JSME Molecular Editor - Local Version</title>
+    <!-- Load JSME from LOCAL files (100% reliable, no network needed!) -->
+    <script type="text/javascript" src="JSME_2024-04-29/jsme/jsme.nocache.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 5px;
+            font-family: Arial, sans-serif;
+            background-color: transparent;
+        }
+        .status {
+            padding: 5px;
+            margin-bottom: 5px;
+            border-radius: 3px;
+            text-align: center;
+            font-weight: bold;
+            font-size: 0.85rem;
+            display: none;
+        }
+        .status.loading {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+        .status.success {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .status.error {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        #jsme_container {
+            width: 100%;
+            height: 350px;
+            border: 2px solid #08517f;
+            border-radius: 5px;
+            background: white;
+            margin-bottom: 0;
+        }
+        .smiles-display {
+            display: none;
+        }
+    </style>
+    <script type="text/javascript">
+        var jsmeApplet = null;
+        var initAttempts = 0;
+        var maxAttempts = 50;
+        
+        // This function will be called by JSME after it loads
+        function jsmeOnLoad() {
+            console.log('✅ jsmeOnLoad callback triggered (LOCAL VERSION)');
+            try {
+                // Initialize JSME editor
+                jsmeApplet = new JSApplet.JSME("jsme_container", "100%", "350px", {
+                    "options": "oldlook,star"
+                });
+                
+                // Set callback for structure changes
+                jsmeApplet.setCallBack("AfterStructureModified", function(event) {
+                    console.log('Structure modified');
+                    updateSMILES();
+                });
+                
+                // Update status
+                document.getElementById('status').className = 'status success';
+                document.getElementById('status').textContent = '✅ JSME Editor Ready! (LOCAL VERSION - 2024-04-29)';
+                
+                console.log('JSME initialized successfully from local files');
+                
+            } catch (error) {
+                console.error('Error initializing JSME:', error);
+                document.getElementById('status').className = 'status error';
+                document.getElementById('status').textContent = '❌ Error: ' + error.message;
+            }
+        }
+        
+        // Backup: Try to initialize manually if callback doesn't fire
+        function tryInitialize() {
+            if (jsmeApplet) {
+                console.log('JSME already initialized');
+                return;
+            }
+            
+            initAttempts++;
+            
+            if (initAttempts > maxAttempts) {
+                document.getElementById('status').className = 'status error';
+                document.getElementById('status').textContent = '❌ Failed to load JSME after ' + maxAttempts + ' attempts. Check console.';
+                return;
+            }
+            
+            // Check if JSApplet is available
+            if (typeof JSApplet !== 'undefined' && JSApplet.JSME) {
+                console.log('JSApplet available (attempt ' + initAttempts + '), initializing...');
+                jsmeOnLoad();
+            } else {
+                console.log('Waiting for JSME... attempt ' + initAttempts + '/50');
+                setTimeout(tryInitialize, 200);
+            }
+        }
+        
+        // Start trying to initialize
+        window.addEventListener('load', function() {
+            console.log('Window loaded, starting JSME initialization (LOCAL)');
+            setTimeout(tryInitialize, 100);  // Shorter delay for local files
+        });
+        
+        // Update SMILES display
+        function updateSMILES() {
+            if (!jsmeApplet) {
+                console.log('JSME not ready');
+                return;
+            }
+            
+            try {
+                var smiles = jsmeApplet.smiles();
+                document.getElementById('smiles_display').textContent = smiles || '(empty)';
+                
+                // Send to parent Shiny app
+                if (parent && parent.Shiny) {
+                    parent.Shiny.setInputValue("drawing_smiles", smiles, {priority: "event"});
+                    console.log('SMILES sent to Shiny:', smiles);
+                }
+            } catch (error) {
+                console.error('Error getting SMILES:', error);
+            }
+        }
+        
+        // Manual SMILES extraction (for button click)
+        function getSMILES() {
+            if (!jsmeApplet) {
+                alert('JSME not ready yet. Please wait...');
+                return;
+            }
+            
+            updateSMILES();
+            alert('✅ SMILES updated!\n\nClick "Use This SMILES" button in the main app.');
+        }
+        
+        // Load example molecule
+        function loadExample(smiles, name) {
+            if (!jsmeApplet) {
+                alert('JSME not ready yet. Please wait...');
+                return;
+            }
+            
+            try {
+                jsmeApplet.readGenericMolecularInput(smiles);
+                console.log('Loaded example:', name);
+                setTimeout(updateSMILES, 300);
+            } catch (error) {
+                console.error('Error loading example:', error);
+                alert('Error loading molecule: ' + error.message);
+            }
+        }
+        
+        // Clear editor
+        function clearEditor() {
+            if (!jsmeApplet) {
+                alert('JSME not ready yet. Please wait...');
+                return;
+            }
+            
+            try {
+                jsmeApplet.reset();
+                document.getElementById('smiles_display').textContent = '(empty)';
+                
+                // Send empty SMILES back to Shiny to clear the input
+                if (parent && parent.Shiny) {
+                    parent.Shiny.setInputValue("drawing_smiles", "", {priority: "event"});
+                    console.log('Cleared SMILES sent to Shiny');
+                }
+            } catch (error) {
+                console.error('Error clearing:', error);
+            }
+        }
+    </script>
+</head>
+<body>
+    <div id="status" class="status loading">⏳ Loading...</div>
+    
+    <!-- JSME Editor Container -->
+    <div id="jsme_container"></div>
+    
+    <!-- SMILES Display (Hidden) -->
+    <div class="smiles-display" id="smiles_display"></div>
+</body>
+</html>

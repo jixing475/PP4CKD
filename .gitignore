@@ -1,0 +1,14 @@
+.DS_Store
+*.zip
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+.venv*/
+venv*/
+.env
+*.pkl
+*.rda
+*.joblib
+*.png
