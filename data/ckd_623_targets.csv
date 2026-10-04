@@ -1,0 +1,624 @@
+gene_id,symbol,name,chembl_id,uniprot_id
+5,ABCB5,ATP binding cassette subfamily B member 5,CHEMBL1772928,Q2M3G0
+6,ABCC11,ATP binding cassette subfamily C member 11,CHEMBL2073702,Q96J66
+7,ABCC2,ATP binding cassette subfamily C member 2,CHEMBL5748,Q92887
+9,ABCC8,ATP binding cassette subfamily C member 8,CHEMBL2071,Q09428
+11,ABCG2,ATP binding cassette subfamily G member 2 (JR blood group),CHEMBL5393,Q9UNQ0
+14,ACE,angiotensin I converting enzyme,CHEMBL1808,P12821
+16,ACKR2,atypical chemokine receptor 2,CHEMBL4105988,O00590
+18,ACP3,acid phosphatase 3,CHEMBL2633,P15309
+20,ACSL4,acyl-CoA synthetase long chain family member 4,CHEMBL4680022,O60488
+21,ACSS2,acyl-CoA synthetase short chain family member 2,CHEMBL4523467,Q9NR19
+24,ACTN4,actinin alpha 4,CHEMBL5724737,O43707
+25,ACVR2B,activin A receptor type 2B,CHEMBL5466,Q13705
+26,ADAMTS1,ADAM metallopeptidase with thrombospondin type 1 motif 1,CHEMBL5133,Q9UHI8
+27,ADAMTS13,ADAM metallopeptidase with thrombospondin type 1 motif 13,CHEMBL2346492,Q76LX8
+29,ADCY6,adenylate cyclase 6,CHEMBL2097167,O43306
+30,ADCYAP1R1,ADCYAP receptor type I,CHEMBL5399,P41586
+33,ADK,adenosine kinase,CHEMBL3589,P55263
+34,ADM,adrenomedullin,CHEMBL2062356,P35318
+35,ADORA1,adenosine A1 receptor,CHEMBL226,P30542
+36,ADORA2A,adenosine A2a receptor,CHEMBL251,P29274
+37,ADORA2B,adenosine A2b receptor,CHEMBL255,P29275
+38,ADORA3,adenosine A3 receptor,CHEMBL256,P0DMS8
+39,ADRA1A,adrenoceptor alpha 1A,CHEMBL229,P35348
+40,ADRA1B,adrenoceptor alpha 1B,CHEMBL232,P35368
+41,ADRA1D,adrenoceptor alpha 1D,CHEMBL223,P25100
+42,ADRA2A,adrenoceptor alpha 2A,CHEMBL1867,P08913
+43,ADRA2B,adrenoceptor alpha 2B,CHEMBL1942,P18089
+44,ADRA2C,adrenoceptor alpha 2C,CHEMBL1916,P18825
+45,ADRB1,adrenoceptor beta 1,CHEMBL213,P08588
+46,ADRB2,adrenoceptor beta 2,CHEMBL210,P07550
+47,ADRB3,adrenoceptor beta 3,CHEMBL246,P13945
+54,AGT,angiotensinogen,CHEMBL3596085,P01019
+55,AGTR1,angiotensin II receptor type 1,CHEMBL227,P30556
+58,AGXT,alanine--glyoxylate aminotransferase,CHEMBL5169121,P21549
+59,AHSA1,activator of HSP90 ATPase activity 1,CHEMBL3309113,O95433
+62,AIMP2,aminoacyl tRNA synthetase complex interacting multifunctional protein 2,CHEMBL4523285,Q13155
+63,AKR1B1,aldo-keto reductase family 1 member B,CHEMBL1900,P15121
+64,ALB,albumin,CHEMBL3253,P02768
+66,ALG8,"ALG8 alpha-1,3-glucosyltransferase",CHEMBL6067106,Q9BVK2
+83,APCS,"amyloid P component, serum",CHEMBL4929,P02743
+84,APOA1,apolipoprotein A1,CHEMBL5984,P02647
+87,APOL1,apolipoprotein L1,CHEMBL4680021,O14791
+89,APRT,adenine phosphoribosyltransferase,CHEMBL4105819,P07741
+92,AQP2,aquaporin 2,CHEMBL4523224,P41181
+93,AQP4,aquaporin 4,CHEMBL5964,P55087
+96,AR,androgen receptor,CHEMBL1871,P10275
+99,ARHGDIA,Rho GDP dissociation inhibitor alpha,CHEMBL3638327,P52565
+100,ARID1A,AT-rich interaction domain 1A,CHEMBL6066172,O14497
+102,ASAH1,N-acylsphingosine amidohydrolase 1,CHEMBL5463,Q13510
+103,ASAP1,"ArfGAP with SH3 domain, ankyrin repeat and PH domain 1",CHEMBL2146311,Q9ULH1
+105,ASH1L,ASH1 like histone lysine methyltransferase,CHEMBL3588739,Q9NR48
+110,ATP4A,ATPase H+/K+ transporting subunit alpha,CHEMBL2095173,P20648
+116,AVPR2,arginine vasopressin receptor 2,CHEMBL1790,P30518
+118,B2M,beta-2-microglobulin,CHEMBL1741302,P61769
+121,B3GNT2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",CHEMBL5465363,Q9NY97
+122,B4GALT1,"beta-1,4-galactosyltransferase 1",CHEMBL4384,P15291
+129,BCL2,BCL2 apoptosis regulator,CHEMBL4860,P10415
+131,BCL2L11,BCL2 like 11,CHEMBL5777,O43521
+132,BCL6,BCL6 transcription repressor,CHEMBL4105786,P41182
+142,BTD,biotinidase,CHEMBL4802066,P43251
+144,BTK,Bruton tyrosine kinase,CHEMBL5251,Q06187
+146,C1GALT1,"core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1",CHEMBL2321633,Q9NS00
+149,C3,complement C3,CHEMBL4917,P01024
+150,C3AR1,complement C3a receptor 1,CHEMBL4761,Q16581
+153,C5,complement C5,CHEMBL2364163,P01031
+154,C5AR1,complement C5a receptor 1,CHEMBL2373,P21730
+155,C9,complement C9,CHEMBL4295693,P02748
+156,CA2,carbonic anhydrase 2,CHEMBL205,P00918
+157,CA9,carbonic anhydrase 9,CHEMBL3594,Q16790
+159,CALCA,calcitonin related polypeptide alpha,CHEMBL5293,P01258
+160,CAMK1D,calcium/calmodulin dependent protein kinase ID,CHEMBL5073,Q8IU85
+161,CARD19,caspase recruitment domain family member 19,CHEMBL6067439,Q96LW7
+164,CASP1,caspase 1,CHEMBL4801,P29466
+165,CASR,calcium sensing receptor,CHEMBL1878,P41180
+168,CBX4,chromobox 4,CHEMBL3232685,O00257
+175,CCL17,C-C motif chemokine ligand 17,CHEMBL4295915,Q92583
+176,CCL2,C-C motif chemokine ligand 2,CHEMBL1649052,P13500
+180,CCN2,cellular communication network factor 2,CHEMBL3712901,P29279
+181,CCND1,cyclin D1,CHEMBL3610,P24385
+182,CCND2,cyclin D2,CHEMBL3301385;CHEMBL3301386,P30279
+183,CCNI,cyclin I,CHEMBL6067138,Q14094
+184,CCR2,C-C motif chemokine receptor 2,CHEMBL4015,P41597
+185,CCR4,C-C motif chemokine receptor 4,CHEMBL2414,P51679
+186,CCR5,C-C motif chemokine receptor 5,CHEMBL274,P51681
+187,CCR6,C-C motif chemokine receptor 6,CHEMBL4423,P51684
+188,CCR8,C-C motif chemokine receptor 8,CHEMBL4596,P51685
+190,CD19,CD19 molecule,CHEMBL3390821,P15391
+191,CD1D,CD1d molecule,CHEMBL1649053,P15813
+192,CD209,CD209 molecule,CHEMBL1795114,Q9NNX6
+194,CD274,CD274 molecule,CHEMBL3580522,Q9NZQ7
+195,CD28,CD28 molecule,CHEMBL5191,P10747
+196,CD2AP,CD2 associated protein,CHEMBL5465369,Q9Y5K6
+198,CD38,CD38 molecule,CHEMBL4660,P28907
+199,CD4,CD4 molecule,CHEMBL2754,P01730
+200,CD40,CD40 molecule,CHEMBL1250358,P25942
+201,CD40LG,CD40 ligand,CHEMBL3580491,P29965
+202,CD44,CD44 molecule (IN blood group),CHEMBL3232692,P16070
+204,CD59,CD59 molecule (CD59 blood group),CHEMBL5724795,P13987
+205,CD6,CD6 molecule,CHEMBL3712853,P30203
+206,CD63,CD63 molecule,CHEMBL3713303,P08962
+207,CD68,CD68 molecule,CHEMBL6066517,P34810
+209,CD80,CD80 molecule,CHEMBL2364157,P33681
+211,CD86,CD86 molecule,CHEMBL2364156,P42081
+214,CDC42,cell division cycle 42,CHEMBL6088,P60953
+215,CDH1,cadherin 1,CHEMBL2321609,P12830
+219,CDKN1B,cyclin dependent kinase inhibitor 1B,CHEMBL3758070,P46527
+221,CDKN2A,cyclin dependent kinase inhibitor 2A,CHEMBL4680027,P42771
+225,CEACAM5,CEA cell adhesion molecule 5,CHEMBL3712881,P06731
+231,CFB,complement factor B,CHEMBL5731,P00751
+232,CFH,complement factor H,CHEMBL4629,P08603
+240,CHI3L1,chitinase 3 like 1,CHEMBL5724768,P36222
+241,CHP1,calcineurin like EF-hand protein 1,CHEMBL6067141,Q99653
+243,CHRNA1,cholinergic receptor nicotinic alpha 1 subunit,CHEMBL4808,P02708
+252,CLDN18,claudin 18,CHEMBL3712859,P56856
+256,CLEC4M,C-type lectin domain family 4 member M,CHEMBL2176858,Q9H2X3
+257,CLEC7A,C-type lectin domain containing 7A,CHEMBL2034810,Q9BXN2
+258,CLIC1,chloride intracellular channel 1,CHEMBL6067062,O00299
+263,CMA1,chymase 1,CHEMBL4068,P23946
+265,CMPK1,cytidine/uridine monophosphate kinase 1,CHEMBL5681,P30085
+267,COL4A1,collagen type IV alpha 1 chain,CHEMBL2364188,P02462
+268,COL4A2,collagen type IV alpha 2 chain,CHEMBL2364188,P08572
+269,COL4A3,collagen type IV alpha 3 chain,CHEMBL2364188,Q01955
+270,COL4A4,collagen type IV alpha 4 chain,CHEMBL3988505,P53420
+271,COL4A5,collagen type IV alpha 5 chain,CHEMBL2364188,P29400
+272,COL4A6,collagen type IV alpha 6 chain,CHEMBL2364188,Q14031
+273,COP1,COP1 E3 ubiquitin ligase,CHEMBL5465335,Q8NHY2
+276,COQ8B,coenzyme Q8B,CHEMBL5753,Q96D53
+278,CORO1A,coronin 1A,CHEMBL5169128,P31146
+279,COXFA4,cytochrome c oxidase associated subunit FA4,CHEMBL2317,O00483
+280,COXFA4L2,cytochrome c oxidase hypoxia associated subunit FA4L2,CHEMBL2363065,Q9NRX3
+284,CPS1,carbamoyl-phosphate synthase 1,CHEMBL2362990,P31327
+291,CRK,"CRK proto-oncogene, adaptor protein",CHEMBL5005,P46108
+292,CRP,C-reactive protein,CHEMBL4295728,P02741
+295,CSF2,colony stimulating factor 2,CHEMBL3712955,P04141
+300,CX3CL1,C-X3-C motif chemokine ligand 1,CHEMBL4630883,P78423
+301,CXCL10,C-X-C motif chemokine ligand 10,CHEMBL3712964,P02778
+302,CXCL8,C-X-C motif chemokine ligand 8,CHEMBL2157,P10145
+304,CXCR3,C-X-C motif chemokine receptor 3,CHEMBL4441,P49682
+305,CXCR4,C-X-C motif chemokine receptor 4,CHEMBL2107,P61073
+309,CYP24A1,cytochrome P450 family 24 subfamily A member 1,CHEMBL4521,Q07973
+314,CYP4A11,cytochrome P450 family 4 subfamily A member 11,CHEMBL3978,Q02928
+315,CYP4A22,cytochrome P450 family 4 subfamily A member 22,CHEMBL4523986,Q5TCH4
+316,CYP4F11,cytochrome P450 family 4 subfamily F member 11,CHEMBL4295949,Q9HBI6
+317,CYP4F12,cytochrome P450 family 4 subfamily F member 12,CHEMBL3509589,Q9HCS2
+318,CYRIB,CYFIP related Rac1 interactor B,CHEMBL6067202,Q9NUQ9
+320,CYTH2,cytohesin 2,CHEMBL5995,Q99418
+322,DBF4,DBF4-CDC7 kinase regulatory subunit,CHEMBL4483,Q9UBU7
+325,DDIT3,DNA damage inducible transcript 3,CHEMBL3351207,P35638
+326,DDR1,discoidin domain receptor tyrosine kinase 1,CHEMBL5319,Q08345
+327,DDX41,DEAD-box helicase 41,CHEMBL5724760,Q9UJV9
+332,DGKE,diacylglycerol kinase epsilon,CHEMBL1075187,P52429
+333,DGKH,diacylglycerol kinase eta,CHEMBL4105940,Q86XP1
+335,DHODH,dihydroorotate dehydrogenase (quinone),CHEMBL1966,Q02127
+340,DMD,dystrophin,CHEMBL5498504,P11532
+344,DNAJB11,DnaJ heat shock protein family (Hsp40) member B11,CHEMBL6067236,Q9UBS4
+345,DNASE1,deoxyribonuclease 1,CHEMBL3351219,P24855
+346,DNASE1L3,deoxyribonuclease 1L3,CHEMBL1649048,Q13609
+348,DPP4,dipeptidyl peptidase 4,CHEMBL284,P27487
+349,DRD1,dopamine receptor D1,CHEMBL2056,P21728
+350,DRD2,dopamine receptor D2,CHEMBL217,P14416
+351,DRD5,dopamine receptor D5,CHEMBL1850,P21918
+352,DSC1,desmocollin 1,CHEMBL5724910,Q08554
+354,DUSP2,dual specificity phosphatase 2,CHEMBL2157858,Q05923
+355,DUSP22,dual specificity phosphatase 22,CHEMBL3924,Q9NRW4
+356,DYNC1H1,dynein cytoplasmic 1 heavy chain 1,CHEMBL5724913,Q14204
+365,EDNRA,endothelin receptor type A,CHEMBL252,P25101
+368,EGF,epidermal growth factor,CHEMBL5734,P01133
+369,EGFR,epidermal growth factor receptor,CHEMBL203,P00533
+370,EGLN1,egl-9 family hypoxia inducible factor 1,CHEMBL5697,Q9GZT9
+371,EGLN2,egl-9 family hypoxia inducible factor 2,CHEMBL3028,Q96KS0
+372,EGLN3,egl-9 family hypoxia inducible factor 3,CHEMBL5705,Q9H6Z9
+374,EIF2AK2,eukaryotic translation initiation factor 2 alpha kinase 2,CHEMBL5785,P19525
+375,ELN,elastin,CHEMBL3713712,P15502
+384,ENTPD5,ectonucleoside triphosphate diphosphohydrolase 5 (inactive),CHEMBL4523151,O75356
+386,EPAS1,endothelial PAS domain protein 1,CHEMBL1744522,Q99814
+387,EPHB4,EPH receptor B4,CHEMBL5147,P54760
+388,EPO,erythropoietin,CHEMBL5837,P01588
+389,EPOR,erythropoietin receptor,CHEMBL1817,P19235
+392,EREG,epiregulin,CHEMBL4662939,O14944
+393,ERMP1,endoplasmic reticulum metallopeptidase 1,CHEMBL6066506,Q7Z2K6
+395,ESR1,estrogen receptor 1,CHEMBL206,P03372
+396,ETFA,electron transfer flavoprotein subunit alpha,CHEMBL6066955,P13804
+400,F9,coagulation factor IX,CHEMBL2016,P00740
+401,FAAH,fatty acid amide hydrolase,CHEMBL2243,O00519
+402,FABP1,fatty acid binding protein 1,CHEMBL5421,P07148
+403,FABP4,fatty acid binding protein 4,CHEMBL2083,P15090
+405,FAH,fumarylacetoacetate hydrolase,CHEMBL6066391,P16930
+407,FAM20C,FAM20C golgi associated secretory pathway kinase,CHEMBL4879492,Q8IXL6
+408,FAN1,FANCD2 and FANCI associated nuclease 1,CHEMBL4523304,Q9Y2M0
+410,FARS2,"phenylalanyl-tRNA synthetase 2, mitochondrial",CHEMBL2511,O95363
+411,FAS,Fas cell surface death receptor,CHEMBL4523207,P25445
+412,FASLG,Fas ligand,CHEMBL5714,P48023
+418,FCER2,Fc epsilon receptor II,CHEMBL2940,P06734
+420,FCGR2B,Fc gamma receptor IIb,CHEMBL4662940,P31994
+422,FCGR3A,Fc gamma receptor IIIa,CHEMBL3856162,P08637
+423,FCGR3B,Fc gamma receptor IIIb,CHEMBL5842,O75015
+424,FCGRT,Fc gamma receptor and transporter,CHEMBL5966,P55899
+429,FGA,fibrinogen alpha chain,CHEMBL2364709,P02671
+430,FGF2,fibroblast growth factor 2,CHEMBL3107,P09038
+432,FGF23,fibroblast growth factor 23,CHEMBL3713913,Q9GZV9
+436,FH,fumarate hydratase,CHEMBL6066495,P07954
+439,FKBP1A,FKBP prolyl isomerase 1A,CHEMBL1902,P62942
+442,FN1,fibronectin 1,CHEMBL3810,P02751
+447,FOXM1,forkhead box M1,CHEMBL4739852,Q08050
+454,FTO,FTO alpha-ketoglutarate dependent dioxygenase,CHEMBL2331065,Q9C0B1
+459,GANAB,glucosidase II alpha subunit,CHEMBL2519,Q14697
+460,GAPDH,glyceraldehyde-3-phosphate dehydrogenase,CHEMBL2284,P04406
+462,GAS6,growth arrest specific 6,CHEMBL4804247,Q14393
+467,GCG,glucagon,CHEMBL5736,P01275
+468,GDF15,growth differentiation factor 15,CHEMBL3120039,Q99988
+472,GGH,gamma-glutamyl hydrolase,CHEMBL2223,Q92820
+478,GHR,growth hormone receptor,CHEMBL1976,P10912
+480,GJA1,gap junction protein alpha 1,CHEMBL4680024,P17302
+481,GLA,galactosidase alpha,CHEMBL2524,P06280
+486,GMPS,guanosine monophosphate synthase,CHEMBL5721,P49915
+487,GNAS,GNAS complex locus,CHEMBL4295849,P84996
+488,GNE,glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase,CHEMBL4523504,Q9Y223
+490,GOT1,glutamic-oxaloacetic transaminase 1,CHEMBL2189139,P17174
+491,GP1BA,glycoprotein Ib platelet subunit alpha,CHEMBL4630891,P07359
+493,GPA33,glycoprotein A33,CHEMBL3712927,Q99795
+495,GPC3,glypican 3,CHEMBL4630889,P51654
+497,GPD2,glycerol-3-phosphate dehydrogenase 2,CHEMBL3391681,P43304
+498,GPER1,G protein-coupled estrogen receptor 1,CHEMBL5872,Q99527
+499,GPR174,G protein-coupled receptor 174,CHEMBL3562167,Q9BXC1
+502,GPR68,G protein-coupled receptor 68,CHEMBL3713916,Q15743
+503,GPRC5A,G protein-coupled receptor class C group 5 member A,CHEMBL4523896,Q8NFJ5
+505,GPT,glutamic--pyruvic transaminase,CHEMBL5929,P24298
+508,GPX4,glutathione peroxidase 4,CHEMBL4295754,P36969
+514,GRHPR,glyoxylate and hydroxypyruvate reductase,CHEMBL4295972,Q9UBQ7
+515,GSDMD,gasdermin D,CHEMBL4523247,P57764
+517,GUCY1A1,guanylate cyclase 1 soluble subunit alpha 1,CHEMBL3137281,Q02108
+518,GUCY1A2,guanylate cyclase 1 soluble subunit alpha 2,CHEMBL2111348,P33402
+519,GUCY1B1,guanylate cyclase 1 soluble subunit beta 1,CHEMBL3137281,Q02153
+522,GZMA,granzyme A,CHEMBL4307,P12544
+528,HBB,hemoglobin subunit beta,CHEMBL4331,P68871
+529,HBEGF,heparin binding EGF like growth factor,CHEMBL3286070,Q99075
+530,HDAC11,histone deacetylase 11,CHEMBL3310,Q96DB2
+533,HGF,hepatocyte growth factor,CHEMBL5479,P14210
+537,HIPK2,homeodomain interacting protein kinase 2,CHEMBL4576,Q9H2X6
+538,HLA-A,"major histocompatibility complex, class I, A",CHEMBL2632,P04439
+539,HLA-B,"major histocompatibility complex, class I, B",CHEMBL6066444,P01889
+540,HLA-C,"major histocompatibility complex, class I, C",CHEMBL6066967,P10321
+541,HLA-DRB1,"major histocompatibility complex, class II, DR beta 1",CHEMBL3831291,P01911
+548,HMGB1,high mobility group box 1,CHEMBL2311236,P09429
+549,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,CHEMBL402,P04035
+555,HPRT1,hypoxanthine phosphoribosyltransferase 1,CHEMBL2360,P00492
+560,HRH1,histamine receptor H1,CHEMBL231,P35367
+561,HRH3,histamine receptor H3,CHEMBL264,Q9Y5N1
+562,ICAM1,intercellular adhesion molecule 1,CHEMBL3070,P05362
+563,IDH2,isocitrate dehydrogenase (NADP(+)) 2,CHEMBL3991501,P48735
+566,IFNA1,interferon alpha 1,CHEMBL3713007,P0DY56
+567,IFNAR1,interferon alpha and beta receptor subunit 1,CHEMBL1887,P17181
+568,IFNG,interferon gamma,CHEMBL3286073,P01579
+571,IGF1,insulin like growth factor 1,CHEMBL3217394,P05019
+572,IGF2BP2,insulin like growth factor 2 mRNA binding protein 2,CHEMBL6066203,Q9Y6M1
+573,IGFBP1,insulin like growth factor binding protein 1,CHEMBL4178,P08833
+576,IGHE,immunoglobulin heavy constant epsilon,CHEMBL1834,P01854
+581,IKBKB,inhibitor of nuclear factor kappa B kinase subunit beta,CHEMBL1991,O14920
+582,IL10,interleukin 10,CHEMBL3712920,P22301
+583,IL12B,interleukin 12B,CHEMBL3580484,P29460
+584,IL13,interleukin 13,CHEMBL3580486,P35225
+585,IL17A,interleukin 17A,CHEMBL3390822,Q16552
+586,IL18,interleukin 18,CHEMBL1741305,Q14116
+587,IL18RAP,interleukin 18 receptor accessory protein,CHEMBL4804253,O95256
+588,IL1A,interleukin 1 alpha,CHEMBL3580496,P01583
+589,IL1B,interleukin 1 beta,CHEMBL1909490,P01584
+590,IL2,interleukin 2,CHEMBL5880,P60568
+591,IL21,interleukin 21,CHEMBL4665586,Q9HBE4
+592,IL22,interleukin 22,CHEMBL3712915,Q9GZX6
+593,IL23A,interleukin 23 subunit alpha,CHEMBL2364154,Q9NPF7
+594,IL2RA,interleukin 2 receptor subunit alpha,CHEMBL1778,P01589
+595,IL2RB,interleukin 2 receptor subunit beta,CHEMBL3276,P14784
+596,IL2RG,interleukin 2 receptor subunit gamma,CHEMBL2364167;CHEMBL4665588;CHEMBL4665592,P31785
+597,IL4,interleukin 4,CHEMBL3712894,P05112
+598,IL5,interleukin 5,CHEMBL1169600,P05113
+599,IL6,interleukin 6,CHEMBL1795129,P05231
+600,IL6R,interleukin 6 receptor,CHEMBL2364155,P08887
+601,IL6ST,interleukin 6 cytokine family signal transducer,CHEMBL3124734,P40189
+603,IMPDH1,inosine monophosphate dehydrogenase 1,CHEMBL1822,P20839
+604,IMPDH2,inosine monophosphate dehydrogenase 2,CHEMBL2002,P12268
+605,INF2,inverted formin 2,CHEMBL6067424,Q27J81
+606,INS,insulin,CHEMBL5881,P01308
+607,INSR,insulin receptor,CHEMBL1981,P06213
+610,IRAK1,interleukin 1 receptor associated kinase 1,CHEMBL3357,P51617
+614,IRS1,insulin receptor substrate 1,CHEMBL4523219,P35568
+616,ITGA1,integrin subunit alpha 1,CHEMBL3682,P56199
+617,ITGA2B,integrin subunit alpha 2b,CHEMBL212,P08514
+618,ITGA3,integrin subunit alpha 3,CHEMBL3525,P26006
+620,ITGB3,integrin subunit beta 3,CHEMBL207,P05106
+621,ITGB6,integrin subunit beta 6,CHEMBL4876,P18564
+622,ITGB8,integrin subunit beta 8,CHEMBL3430892;CHEMBL6066568;CHEMBL6066571,P26012
+623,ITPR3,"inositol 1,4,5-trisphosphate receptor type 3",CHEMBL3904,Q14573
+624,JAK2,Janus kinase 2,CHEMBL2971,O60674
+627,JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",CHEMBL4977,P05412
+628,JUND,"JunD proto-oncogene, AP-1 transcription factor subunit",CHEMBL6067460,P17535
+630,KAT6B,lysine acetyltransferase 6B,CHEMBL3774300,Q8WYB5
+631,KCNA3,potassium voltage-gated channel subfamily A member 3,CHEMBL4633,P22001
+632,KCNJ11,potassium inwardly rectifying channel subfamily J member 11,CHEMBL1886,Q14654
+634,KCNK3,potassium two pore domain channel subfamily K member 3,CHEMBL2321613,O14649
+637,KCNMA1,potassium calcium-activated channel subfamily M alpha 1,CHEMBL4304,Q12791
+639,KCNQ1,potassium voltage-gated channel subfamily Q member 1,CHEMBL1866,P51787
+641,KDM6B,lysine demethylase 6B,CHEMBL1938211,O15054
+642,KEAP1,kelch like ECH associated protein 1,CHEMBL2069156,Q14145
+646,KIT,"KIT proto-oncogene, receptor tyrosine kinase",CHEMBL1936,P10721
+647,KL,klotho,CHEMBL4523485,Q9UEF7
+656,KLK4,kallikrein related peptidase 4,CHEMBL4446,Q9Y5K2
+658,KRAS,"KRAS proto-oncogene, GTPase",CHEMBL2189121,P01116
+666,LAMA5,laminin subunit alpha 5,CHEMBL2364187,O15230
+667,LAMB2,laminin subunit beta 2,CHEMBL2364187,P55268
+670,LAT2,linker for activation of T cells family member 2,CHEMBL4301,Q9GZY6
+671,LCAT,lecithin-cholesterol acyltransferase,CHEMBL5942,P04180
+674,LEPR,leptin receptor,CHEMBL5913,P48357
+675,LETM1,leucine zipper and EF-hand containing transmembrane protein 1,CHEMBL6066991,O95202
+676,LGALS3,galectin 3,CHEMBL4531,P17931
+681,LILRA4,leukocyte immunoglobulin like receptor A4,CHEMBL4804246,P59901
+688,LONP1,"lon peptidase 1, mitochondrial",CHEMBL4879436,P36776
+689,LOX,lysyl oxidase,CHEMBL2249,P28300
+690,LOXL4,lysyl oxidase like 4,CHEMBL4295926,Q96JB6
+692,LPCAT3,lysophosphatidylcholine acyltransferase 3,CHEMBL6066416,Q6P1A2
+700,LTB4R,leukotriene B4 receptor,CHEMBL3911,Q15722
+703,LY75,lymphocyte antigen 75,CHEMBL4804258,O60449
+704,LYN,"LYN proto-oncogene, Src family tyrosine kinase",CHEMBL3905,P07948
+707,MACF1,microtubule actin crosslinking factor 1,CHEMBL6067152,Q9UPN3
+713,MAP3K15,mitogen-activated protein kinase kinase kinase 15,CHEMBL1163127,Q6ZN16
+714,MAP3K5,mitogen-activated protein kinase kinase kinase 5,CHEMBL5285,Q99683
+715,MAP4K1,mitogen-activated protein kinase kinase kinase kinase 1,CHEMBL5749,Q92918
+716,MAPK1,mitogen-activated protein kinase 1,CHEMBL4040,P28482
+717,MAPK14,mitogen-activated protein kinase 14,CHEMBL260,Q16539
+718,MAPK8,mitogen-activated protein kinase 8,CHEMBL2276,P45983
+719,MAS1,"MAS1 proto-oncogene, G protein-coupled receptor",CHEMBL3559701,P04201
+720,MASP2,MBL associated serine protease 2,CHEMBL4295646,O00187
+721,MBD2,methyl-CpG binding domain protein 2,CHEMBL3707462,Q9UBB5
+723,MC2R,melanocortin 2 receptor,CHEMBL1965,Q01718
+724,MCM6,minichromosome maintenance complex component 6,CHEMBL4296011,Q14566
+726,MDN1,midasin AAA ATPase 1,CHEMBL4105779,Q9NU22
+730,MET,"MET proto-oncogene, receptor tyrosine kinase",CHEMBL3717,P08581
+731,METTL3,"methyltransferase 3, N6-adenosine-methyltransferase complex catalytic subunit",CHEMBL4739695,Q86U44
+734,MGST2,microsomal glutathione S-transferase 2,CHEMBL1743185,Q99735
+736,MIF,macrophage migration inhibitory factor,CHEMBL2085,P14174
+749,MITF,melanocyte inducing transcription factor,CHEMBL1741165,O75030
+750,MKI67,marker of proliferation Ki-67,CHEMBL6066170,P46013
+753,MME,membrane metalloendopeptidase,CHEMBL1944,P08473
+755,MMP2,matrix metallopeptidase 2,CHEMBL333,P08253
+756,MMP3,matrix metallopeptidase 3,CHEMBL283,P08254
+757,MMP9,matrix metallopeptidase 9,CHEMBL321,P14780
+762,MPO,myeloperoxidase,CHEMBL2439,P05164
+764,MR1,"major histocompatibility complex, class I-related",CHEMBL5465401,Q95460
+767,MS4A1,membrane spanning 4-domains A1,CHEMBL2058,P11836
+768,MT-ATP6,mitochondrially encoded ATP synthase membrane subunit 6,CHEMBL6066982,P00846
+769,MT-ATP8,mitochondrially encoded ATP synthase membrane subunit 8,CHEMBL6066980,P03928
+770,MT-CO1,mitochondrially encoded cytochrome c oxidase I,CHEMBL6173,P00395
+771,MT-CO2,mitochondrially encoded cytochrome c oxidase II,CHEMBL6174,P00403
+772,MT-CO3,mitochondrially encoded cytochrome c oxidase III,CHEMBL6066983,P00414
+773,MT-ND1,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1,CHEMBL2111,P03886
+774,MT-ND2,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 2,CHEMBL2363065,P03891
+775,MT-ND3,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3,CHEMBL2363065,P03897
+776,MT-ND4,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4,CHEMBL4499,P03905
+777,MT-ND4L,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L,CHEMBL2363065,P03901
+778,MT-ND5,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5,CHEMBL2363065,P03915
+779,MT-ND6,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6,CHEMBL2363065,P03923
+782,MTARC1,mitochondrial amidoxime reducing component 1,CHEMBL3706559,Q5VT66
+784,MTOR,mechanistic target of rapamycin kinase,CHEMBL2842,P42345
+787,MUC1,"mucin 1, cell surface associated",CHEMBL3580494,P15941
+788,MUC16,"mucin 16, cell surface associated",CHEMBL3580482,Q8WXI7
+789,MUC5AC,"mucin 5AC, oligomeric mucus/gel-forming",CHEMBL3713020,P98088
+791,MYD88,MYD88 innate immune signal transduction adaptor,CHEMBL5919,Q99836
+792,MYH9,myosin heavy chain 9,CHEMBL2189151,P35579
+802,NDUFA1,NADH:ubiquinone oxidoreductase subunit A1,CHEMBL2363065,O15239
+804,NDUFA11,NADH:ubiquinone oxidoreductase subunit A11,CHEMBL2363065,Q86Y39
+805,NDUFA12,NADH:ubiquinone oxidoreductase subunit A12,CHEMBL2363065,Q9UI09
+806,NDUFA13,NADH:ubiquinone oxidoreductase subunit A13,CHEMBL4105781,Q9P0J0
+807,NDUFA2,NADH:ubiquinone oxidoreductase subunit A2,CHEMBL2363065,O43678
+808,NDUFA3,NADH:ubiquinone oxidoreductase subunit A3,CHEMBL2363065,O95167
+809,NDUFA5,NADH:ubiquinone oxidoreductase subunit A5,CHEMBL6067539,Q16718
+810,NDUFA6,NADH:ubiquinone oxidoreductase subunit A6,CHEMBL2363065,P56556
+811,NDUFA7,NADH:ubiquinone oxidoreductase subunit A7,CHEMBL2363065,O95182
+812,NDUFA8,NADH:ubiquinone oxidoreductase subunit A8,CHEMBL2363065,P51970
+813,NDUFA9,NADH:ubiquinone oxidoreductase subunit A9,CHEMBL2363065,Q16795
+814,NDUFAB1,NADH:ubiquinone oxidoreductase subunit AB1,CHEMBL6067057,O14561
+815,NDUFAF1,NADH:ubiquinone oxidoreductase complex assembly factor 1,CHEMBL2363065,Q9Y375
+816,NDUFAF2,NADH:ubiquinone oxidoreductase complex assembly factor 2,CHEMBL6067536,Q8N183
+817,NDUFAF3,NADH:ubiquinone oxidoreductase complex assembly factor 3,CHEMBL2363065,Q9BU61
+818,NDUFAF4,NADH:ubiquinone oxidoreductase complex assembly factor 4,CHEMBL6067528,Q9P032
+819,NDUFB1,NADH:ubiquinone oxidoreductase subunit B1,CHEMBL2363065,O75438
+820,NDUFB11,NADH:ubiquinone oxidoreductase subunit B11,CHEMBL2363065,Q9NX14
+821,NDUFB2,NADH:ubiquinone oxidoreductase subunit B2,CHEMBL2363065,O95178
+822,NDUFB3,NADH:ubiquinone oxidoreductase subunit B3,CHEMBL2363065,O43676
+823,NDUFB4,NADH:ubiquinone oxidoreductase subunit B4,CHEMBL2363065,O95168
+824,NDUFB5,NADH:ubiquinone oxidoreductase subunit B5,CHEMBL4337,O43674
+825,NDUFB7,NADH:ubiquinone oxidoreductase subunit B7,CHEMBL2357,P17568
+826,NDUFB9,NADH:ubiquinone oxidoreductase subunit B9,CHEMBL6067526,Q9Y6M9
+827,NDUFC1,NADH:ubiquinone oxidoreductase subunit C1,CHEMBL2363065,O43677
+828,NDUFS1,NADH:ubiquinone oxidoreductase core subunit S1,CHEMBL6066925,P28331
+830,NDUFS4,NADH:ubiquinone oxidoreductase subunit S4,CHEMBL2363065,O43181
+831,NDUFS7,NADH:ubiquinone oxidoreductase core subunit S7,CHEMBL6067015,O75251
+832,NDUFS8,NADH:ubiquinone oxidoreductase core subunit S8,CHEMBL2363065,O00217
+833,NDUFV1,NADH:ubiquinone oxidoreductase core subunit V1,CHEMBL6066881,P49821
+834,NDUFV3,NADH:ubiquinone oxidoreductase subunit V3,CHEMBL2363065,P56181
+836,NEK8,NIMA related kinase 8,CHEMBL2417353,Q86SG6
+841,NFATC1,nuclear factor of activated T cells 1,CHEMBL3876,O95644
+842,NFE2L2,NFE2 like bZIP transcription factor 2,CHEMBL1075094,Q16236
+845,NFKB1,nuclear factor kappa B subunit 1,CHEMBL3251,P19838
+847,NFRKB,nuclear factor related to kappaB binding protein,CHEMBL5725193,Q6P4R8
+850,NLRP3,NLR family pyrin domain containing 3,CHEMBL1741208,Q96P20
+851,NNMT,nicotinamide N-methyltransferase,CHEMBL2346486,P40261
+852,NOS1,nitric oxide synthase 1,CHEMBL3568,P29475
+854,NOS2,nitric oxide synthase 2,CHEMBL4481,P35228
+855,NOS3,nitric oxide synthase 3,CHEMBL4803,P29474
+856,NOTCH1,notch receptor 1,CHEMBL2146346,P46531
+858,NOTCH3,notch receptor 3,CHEMBL3407319,Q9UM47
+859,NOTCH4,notch receptor 4,CHEMBL3407321,Q99466
+869,NPR1,natriuretic peptide receptor 1,CHEMBL1988,P16066
+870,NR1H3,nuclear receptor subfamily 1 group H member 3,CHEMBL2808,Q13133
+871,NR3C1,nuclear receptor subfamily 3 group C member 1,CHEMBL2034,P04150
+872,NR3C2,nuclear receptor subfamily 3 group C member 2,CHEMBL1994,P08235
+873,NR4A1,nuclear receptor subfamily 4 group A member 1,CHEMBL1293229,P22736
+877,NSUN6,NOP2/Sun RNA methyltransferase 6,CHEMBL5169179,Q8TEA1
+881,NUP160,nucleoporin 160,CHEMBL6066257,Q12769
+882,NUP205,nucleoporin 205,CHEMBL5725190,Q92621
+884,NUP93,nucleoporin 93,CHEMBL5725189,Q8N1F7
+892,OPRK1,opioid receptor kappa 1,CHEMBL237,P41145
+901,P2RX7,purinergic receptor P2X 7,CHEMBL4805,Q99572
+903,P2RY12,purinergic receptor P2Y12,CHEMBL2001,Q9H244
+904,P4HTM,"prolyl 4-hydroxylase, transmembrane",CHEMBL3047,Q9NXG6
+906,PADI2,peptidyl arginine deiminase 2,CHEMBL1909487,Q9Y2J8
+907,PAF1,PAF1 component of Paf1/RNA polymerase II complex,CHEMBL5725179,Q8N7H5
+908,PAK2,p21 (RAC1) activated kinase 2,CHEMBL4487,Q13177
+909,PAM,peptidylglycine alpha-amidating monooxygenase,CHEMBL2544,P19021
+913,PARN,poly(A)-specific ribonuclease,CHEMBL3616362,O95453
+914,PARP1,poly(ADP-ribose) polymerase 1,CHEMBL3105,P09874
+915,PAX2,paired box 2,CHEMBL5465301,Q02962
+916,PAX8,paired box 8,CHEMBL2362980,Q06710
+919,PCDH15,protocadherin related 15,CHEMBL6112,Q96QU1
+920,PCNA,proliferating cell nuclear antigen,CHEMBL2346488,P12004
+922,PCSK2,proprotein convertase subtilisin/kexin type 2,CHEMBL2433,P16519
+923,PDAP1,PDGFA associated protein 1,CHEMBL6067112,Q13442
+925,PDCD1,programmed cell death 1,CHEMBL3307223,Q15116
+926,PDCD4,programmed cell death 4,CHEMBL1781868,Q53EL6
+927,PDE1A,phosphodiesterase 1A,CHEMBL3421,P54750
+928,PDE3A,phosphodiesterase 3A,CHEMBL241,Q14432
+929,PDE3B,phosphodiesterase 3B,CHEMBL290,Q13370
+930,PDE4A,phosphodiesterase 4A,CHEMBL254,P27815
+931,PDE4B,phosphodiesterase 4B,CHEMBL275,Q07343
+932,PDE4C,phosphodiesterase 4C,CHEMBL291,Q08493
+933,PDE4D,phosphodiesterase 4D,CHEMBL288,Q08499
+936,PDGFRB,platelet derived growth factor receptor beta,CHEMBL1913,P09619
+942,PEAK1,pseudopodium enriched atypical kinase 1,CHEMBL3627585,Q9H792
+943,PGR,progesterone receptor,CHEMBL208,P06401
+945,PIEZO1,piezo type mechanosensitive ion channel component 1 (Er blood group),CHEMBL5169186,Q92508
+947,PIK3CD,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",CHEMBL3130,O00329
+948,PIK3CG,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma",CHEMBL3267,P48736
+949,PKD1,"polycystin 1, transient receptor potential channel interacting",CHEMBL5772,P98161
+951,PKD2,"polycystin 2, transient receptor potential cation channel",CHEMBL5465,Q13563
+954,PLA2R1,phospholipase A2 receptor 1,CHEMBL3713395,Q13018
+957,PLCG2,phospholipase C gamma 2,CHEMBL4100,P16885
+959,PLG,plasminogen,CHEMBL1801,P00747
+962,PMM2,phosphomannomutase 2,CHEMBL1741162,O15305
+966,PON1,paraoxonase 1,CHEMBL3167,P27169
+967,POT1,protection of telomeres 1,CHEMBL5908,Q9NUX5
+968,POU3F3,POU class 3 homeobox 3,CHEMBL5243,P20264
+969,PPARA,peroxisome proliferator activated receptor alpha,CHEMBL239,Q07869
+970,PPARG,peroxisome proliferator activated receptor gamma,CHEMBL235,P37231
+971,PPARGC1A,PPARG coactivator 1 alpha,CHEMBL6116,Q9UBK2
+972,PPAT,phosphoribosyl pyrophosphate amidotransferase,CHEMBL2362992,Q06203
+974,PPIA,peptidylprolyl isomerase A,CHEMBL1949,P62937
+976,PPP1R12A,protein phosphatase 1 regulatory subunit 12A,CHEMBL3124,O14974
+977,PPP3CA,protein phosphatase 3 catalytic subunit alpha,CHEMBL4445,Q08209
+980,PRDX2,peroxiredoxin 2,CHEMBL4295744,P32119
+981,PRF1,perforin 1,CHEMBL5480,P14222
+984,PRKAG2,protein kinase AMP-activated non-catalytic subunit gamma 2,CHEMBL2453,Q9UGJ0
+986,PRKDC,"protein kinase, DNA-activated, catalytic subunit",CHEMBL3142,P78527
+990,PROX1,prospero homeobox 1,CHEMBL6067110,Q92786
+991,PRTN3,proteinase 3,CHEMBL3900,P24158
+992,PRXL2A,peroxiredoxin like 2A,CHEMBL3879824,Q9BRX8
+993,PSAP,prosaposin,CHEMBL3580523,P07602
+995,PSMA4,proteasome 20S subunit alpha 4,CHEMBL6066933,P25789
+996,PSMA6,proteasome 20S subunit alpha 6,CHEMBL6067562,P60900
+997,PSMB6,proteasome 20S subunit beta 6,CHEMBL1944496,P28072
+998,PSMD7,"proteasome 26S subunit, non-ATPase 7",CHEMBL3831214,P51665
+999,PSMD9,"proteasome 26S subunit, non-ATPase 9",CHEMBL6066287,O00233
+1000,PSMG1,proteasome assembly chaperone 1,CHEMBL3885624,O95456
+1002,PTCH1,patched 1,CHEMBL5169150,Q13635
+1003,PTGER1,prostaglandin E receptor 1,CHEMBL1811,P34995
+1006,PTGS1,prostaglandin-endoperoxide synthase 1,CHEMBL221,P23219
+1007,PTGS2,prostaglandin-endoperoxide synthase 2,CHEMBL230,P35354
+1009,PTPN22,protein tyrosine phosphatase non-receptor type 22,CHEMBL2889,Q9Y2R2
+1012,PTPRO,protein tyrosine phosphatase receptor type O,CHEMBL4105749,Q16827
+1016,RAB27A,"RAB27A, member RAS oncogene family",CHEMBL4105702,P51159
+1018,RAC2,Rac family small GTPase 2,CHEMBL5581,P15153
+1021,RARA,retinoic acid receptor alpha,CHEMBL2055,P10276
+1022,RARB,retinoic acid receptor beta,CHEMBL2008,P10826
+1025,RASGRP1,RAS guanyl releasing protein 1,CHEMBL5953,O95267
+1034,REL,"REL proto-oncogene, NF-kB subunit",CHEMBL4296310,Q04864
+1035,REN,renin,CHEMBL286,P00797
+1037,RET,ret proto-oncogene,CHEMBL2041,P07949
+1053,RPL13A,ribosomal protein L13a,CHEMBL6066905,P40429
+1054,RPL17,ribosomal protein L17,CHEMBL6066947,P18621
+1058,RRM2B,ribonucleotide reductase regulatory TP53 inducible subunit M2B,CHEMBL3301398,Q7LG56
+1061,RUNX1,RUNX family transcription factor 1,CHEMBL1615385,Q01196
+1063,S100A8,S100 calcium binding protein A8,CHEMBL5725128,P05109
+1064,S100B,S100 calcium binding protein B,CHEMBL4300,P04271
+1067,SAP130,Sin3A associated protein 130,CHEMBL1229012,Q9H0E3
+1070,SCD,stearoyl-CoA desaturase,CHEMBL5555,O00767
+1072,SCN10A,sodium voltage-gated channel alpha subunit 10,CHEMBL5451,Q9Y5Y9
+1073,SCN11A,sodium voltage-gated channel alpha subunit 11,CHEMBL5167,Q9UI33
+1074,SCN1A,sodium voltage-gated channel alpha subunit 1,CHEMBL1845,P35498
+1075,SCN4A,sodium voltage-gated channel alpha subunit 4,CHEMBL2072,P35499
+1076,SCN7A,sodium voltage-gated channel alpha subunit 7,CHEMBL3585,Q01118
+1077,SCN8A,sodium voltage-gated channel alpha subunit 8,CHEMBL5202,Q9UQD0
+1078,SCN9A,sodium voltage-gated channel alpha subunit 9,CHEMBL4296,Q15858
+1080,SCNN1G,sodium channel epithelial 1 subunit gamma,CHEMBL1628484,P51170
+1084,SDC2,syndecan 2,CHEMBL6066914,P34741
+1086,SDK1,sidekick cell adhesion molecule 1,CHEMBL2996,Q7Z5N4
+1087,SEC61A1,SEC61 translocon subunit alpha 1,CHEMBL5725113,P61619
+1088,SEC63,SEC63 protein translocation regulator,CHEMBL6067116,Q9UGP8
+1089,SELP,selectin P,CHEMBL5378,P16109
+1091,SERPINA3,serpin family A member 3,CHEMBL5960,P01011
+1092,SERPINC1,serpin family C member 1,CHEMBL1950,P01008
+1093,SERPINE1,serpin family E member 1,CHEMBL3475,P05121
+1096,SETD2,"SET domain containing 2, histone lysine methyltransferase",CHEMBL3108647,Q9BYW2
+1097,SETD7,"SET domain containing 7, histone lysine methyltransferase",CHEMBL5523,Q8WTS6
+1098,SGPL1,sphingosine-1-phosphate lyase 1,CHEMBL3286061,O95470
+1099,SH2D1A,SH2 domain containing 1A,CHEMBL2321636,O60880
+1105,SHROOM3,shroom family member 3,CHEMBL6067279,Q8TF72
+1107,SIRT1,sirtuin 1,CHEMBL4506,Q96EB6
+1108,SIRT2,sirtuin 2,CHEMBL4462,Q8IXJ6
+1110,SLC12A1,solute carrier family 12 member 1,CHEMBL1874,Q13621
+1111,SLC12A3,solute carrier family 12 member 3,CHEMBL1876,P55017
+1114,SLC15A2,solute carrier family 15 member 2,CHEMBL1743125,Q16348
+1116,SLC17A5,solute carrier family 17 member 5,CHEMBL4630859,Q9NRA2
+1118,SLC22A12,solute carrier family 22 member 12,CHEMBL6120,Q96S37
+1119,SLC22A2,solute carrier family 22 member 2,CHEMBL1743122,O15244
+1124,SLC2A9,solute carrier family 2 member 9,CHEMBL2052034,Q9NRM0
+1137,SLC5A1,solute carrier family 5 member 1,CHEMBL4979,P13866
+1138,SLC5A2,solute carrier family 5 member 2,CHEMBL3884,P31639
+1141,SLC8A1,solute carrier family 8 member A1,CHEMBL4076,P32418
+1142,SLC9A3,solute carrier family 9 member A3,CHEMBL3273,P48764
+1145,SMAD3,SMAD family member 3,CHEMBL1293258,P84022
+1146,SMAD4,SMAD family member 4,CHEMBL5725109,Q13485
+1149,SMARCA4,SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4,CHEMBL3085620,P51532
+1151,SNCA,synuclein alpha,CHEMBL6152,P37840
+1152,SNCAIP,synuclein alpha interacting protein,CHEMBL1926494,Q9Y6H5
+1153,SOAT1,sterol O-acyltransferase 1,CHEMBL2782,P35610
+1155,SOD2,superoxide dismutase 2,CHEMBL4105776,P04179
+1156,SOS2,SOS Ras/Rho guanine nucleotide exchange factor 2,CHEMBL4524041,Q07890
+1157,SOX18,SRY-box transcription factor 18,CHEMBL4523220,P35713
+1161,SPP1,secreted phosphoprotein 1,CHEMBL1741309,P10451
+1166,SPTLC1,serine palmitoyltransferase long chain base subunit 1,CHEMBL1250343,O15269
+1168,SRSF2,serine and arginine rich splicing factor 2,CHEMBL5725035,Q01130
+1169,SRSF6,serine and arginine rich splicing factor 6,CHEMBL5169149,Q13247
+1171,SSTR2,somatostatin receptor 2,CHEMBL1804,P30874
+1172,SSTR5,somatostatin receptor 5,CHEMBL1792,P35346
+1174,ST14,ST14 transmembrane serine protease matriptase,CHEMBL3018,Q9Y5Y6
+1176,ST6GAL1,"ST6 beta-galactoside alpha-2,6-sialyltransferase 1",CHEMBL3596075,P15907
+1178,STAT3,signal transducer and activator of transcription 3,CHEMBL4026,P40763
+1179,STAT4,signal transducer and activator of transcription 4,CHEMBL4523296,Q14765
+1180,STAT6,signal transducer and activator of transcription 6,CHEMBL5401,P42226
+1182,STIM1,stromal interaction molecule 1,CHEMBL3832644;CHEMBL4296083;CHEMBL4296084;CHEMBL4888450;CHEMBL4888461,Q13586
+1183,STING1,stimulator of interferon response cGAMP interactor 1,CHEMBL4523377,Q86WV6
+1184,STK11,serine/threonine kinase 11,CHEMBL5606,Q15831
+1188,SYK,spleen associated tyrosine kinase,CHEMBL2599,P43405
+1191,TAS2R38,taste 2 receptor member 38,CHEMBL4523248,P59533
+1192,TAT,tyrosine aminotransferase,CHEMBL3043,P17735
+1197,TBL1XR1,TBL1X/Y related 1,CHEMBL6067529,Q9BZK7
+1203,TCF4,transcription factor 4,CHEMBL3885541,P15884
+1204,TCF7L2,transcription factor 7 like 2,CHEMBL3038511,Q9NQB0
+1205,TDRD7,tudor domain containing 7,CHEMBL4105828,Q8NHU6
+1210,TERT,telomerase reverse transcriptase,CHEMBL2916,O14746
+1211,TET2,tet methylcytosine dioxygenase 2,CHEMBL4523344,Q6N021
+1212,TF,transferrin,CHEMBL4865,P02787
+1214,TFEB,transcription factor EB,CHEMBL6067602,P19484
+1217,TGFA,transforming growth factor alpha,CHEMBL4662938,P01135
+1218,TGFB1,transforming growth factor beta 1,CHEMBL1795178,P01137
+1219,TGFB2,transforming growth factor beta 2,CHEMBL3217393,P61812
+1220,TGFB3,transforming growth factor beta 3,CHEMBL3712903,P10600
+1221,TGM2,transglutaminase 2,CHEMBL2730,P21980
+1222,TH,tyrosine hydroxylase,CHEMBL1969,P07101
+1230,TIMP3,TIMP metallopeptidase inhibitor 3,CHEMBL5465289,P35625
+1231,TJP1,tight junction protein 1,CHEMBL4296026,Q07157
+1232,TLR1,toll like receptor 1,CHEMBL3714412,Q15399
+1233,TLR4,toll like receptor 4,CHEMBL5255,O00206
+1234,TLR8,toll like receptor 8,CHEMBL5805,Q9NR97
+1235,TMED7,transmembrane p24 trafficking protein 7,CHEMBL6067355,Q9Y3B3
+1246,TMSB4X,thymosin beta 4 X-linked,CHEMBL6067128,P62328
+1247,TNC,tenascin C,CHEMBL3712856,P24821
+1248,TNF,tumor necrosis factor,CHEMBL1825,P01375
+1251,TNFRSF13C,TNF receptor superfamily member 13C,CHEMBL4630882,Q96RJ3
+1252,TNFRSF1A,TNF receptor superfamily member 1A,CHEMBL3378,P19438
+1253,TNFRSF1B,TNF receptor superfamily member 1B,CHEMBL1250356,P20333
+1256,TNFSF13,TNF superfamily member 13,CHEMBL3713436,O75888
+1257,TNFSF13B,TNF superfamily member 13b,CHEMBL2364158,Q9Y275
+1258,TNFSF4,TNF superfamily member 4,CHEMBL3712900,P23510
+1264,TP53,tumor protein p53,CHEMBL4096,P04637
+1267,TRAF3IP2,TRAF3 interacting protein 2,CHEMBL4523586,O43734
+1272,TREM1,triggering receptor expressed on myeloid cells 1,CHEMBL1697674,Q9NP99
+1278,TRPC6,transient receptor potential cation channel subfamily C member 6,CHEMBL2417347,Q9Y210
+1281,TRPV1,transient receptor potential cation channel subfamily V member 1,CHEMBL4794,Q8NER1
+1282,TRPV5,transient receptor potential cation channel subfamily V member 5,CHEMBL1628474,Q9NQA5
+1284,TSC2,TSC complex subunit 2,CHEMBL6067627,P49815
+1288,TSLP,thymic stromal lymphopoietin,CHEMBL3712931,Q969D9
+1291,TUBB1,tubulin beta 1 class VI,CHEMBL1915,Q9H4B7
+1296,UBE3C,ubiquitin protein ligase E3C,CHEMBL6067433,Q15386
+1297,UCHL1,ubiquitin C-terminal hydrolase L1,CHEMBL6159,P09936
+1300,UHRF1,ubiquitin like with PHD and ring finger domains 1,CHEMBL2424510,Q96T88
+1305,UROD,uroporphyrinogen decarboxylase,CHEMBL1681619,P06132
+1306,USP24,ubiquitin specific peptidase 24,CHEMBL5291599,Q9UPU5
+1312,VAV1,vav guanine nucleotide exchange factor 1,CHEMBL3259472,P15498
+1314,VCAM1,vascular cell adhesion molecule 1,CHEMBL3735,P19320
+1315,VDR,vitamin D receptor,CHEMBL1977,P11473
+1316,VEGFA,vascular endothelial growth factor A,CHEMBL1783,P15692
+1317,VHL,von Hippel-Lindau tumor suppressor,CHEMBL3108660,P40337
+1318,VIM,vimentin,CHEMBL3712854,P08670
+1322,VWF,von Willebrand factor,CHEMBL2021748,P04275
+1324,WDR1,WD repeat domain 1,CHEMBL6066472,O75083
+1325,WDR11,WD repeat domain 11,CHEMBL2176773,Q9BZH6
+1329,WFS1,wolframin ER transmembrane glycoprotein,CHEMBL6066374,O76024
+1331,WNK1,WNK lysine deficient protein kinase 1,CHEMBL1075173,Q9H4A3
+1333,WNT3A,Wnt family member 3A,CHEMBL1255137,P56704
+1335,WT1,WT1 transcription factor,CHEMBL4662942,P19544
+1337,XDH,xanthine dehydrogenase,CHEMBL1929,P47989
+1340,ZBTB43,zinc finger and BTB domain containing 43,CHEMBL5069369,O43298
+1355,ZNF787,zinc finger protein 787,CHEMBL6067428,Q6DD87
+1361,ZNRD2,zinc ribbon domain containing 2,CHEMBL4105996,O60232

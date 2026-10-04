@@ -1,0 +1,9 @@
+# PP4CKD Core Dependencies
+torch>=2.0.0
+rdkit>=2022.9.1
+numpy>=1.22.0,<2.0.0
+scipy>=1.9.0
+pandas>=1.4.0
+scikit-learn>=1.1.0
+mhfp>=1.9.6
+tqdm>=4.64.0
