@@ -111,7 +111,7 @@ The open-source code, data extraction pipelines, and quickstart inference script
 ### Step 4: 保存与预分配 DOI (Reserve DOI)
 1. 点击页面底部的 **「Save」**（此时生成草稿 Draft，尚未公开发布）。
 2. 在页面顶部会看到 **「DOI」** 模块，点击 **「Reserve DOI」**。
-3. **关键操作**：Zenodo 会立刻生成一个预留的 DOI（格式如：`10.5281/zenodo.12345678`）。
+3. **关键操作**：Zenodo 会立刻生成一个预留的 DOI（格式如：`10.5281/zenodo.23147411`）。
    - **立即复制该 DOI**，可直接填入手稿与 README，不需要等待最终提交即可锁定该编号。
 
 ### Step 5: 发布 (Publish)
@@ -123,10 +123,10 @@ The open-source code, data extraction pipelines, and quickstart inference script
 
 ## 3. 发布后的联动回填清单 (仅需 2 处)
 
-发布并取得 DOI（假设为 `10.5281/zenodo.XXXXXXX`）后，仅需更新以下两处引用：
+发布并取得 DOI（假设为 `10.5281/zenodo.23147411`）后，仅需更新以下两处引用：
 
 1. **`pp4ckd/README.md`**：
-   - 将 `https://doi.org/10.5281/zenodo.xxxxxxx` 替换为真实生成的 DOI 链接；
+   - 将 `https://doi.org/10.5281/zenodo.23147411` 替换为真实生成的 DOI 链接；
    - 更新顶部的 Zenodo Badge 徽标。
 2. **`manuscript/draft/FULL_MANUSCRIPT.md`**：
    - 将 Data Availability Statement 中的 `[TODO-D1: Zenodo DOI for CSV release snapshot]` 关联处或 PP4CKD 权重获取处填入该 DOI。

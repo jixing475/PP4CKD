@@ -4,7 +4,7 @@
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![RDKit](https://img.shields.io/badge/RDKit-2022.09+-green.svg)](https://www.rdkit.org/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/Zenodo-Weights%20Archived-blue.svg)](#-zenodo-model-weights-archive--doi-guide)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23147411.svg)](https://doi.org/10.5281/zenodo.23147411)
 
 **PP4CKD** (*Polypharmacology Predictor for Chronic Kidney Disease*) is a state-of-the-art, multi-target ligand-based deep learning framework specifically engineered for nephrology drug discovery and target deconvolution. 
 
@@ -254,6 +254,9 @@ python scripts/evaluate.py \
 
 ## 📦 Zenodo Model Weights Archive & DOI Guide
 
+> **Permanent DOI Record**: [https://doi.org/10.5281/zenodo.23147411](https://doi.org/10.5281/zenodo.23147411)  
+> **Direct Download**: `pp4ckd_models.tar.gz` (785 MB, MD5: `f9380bb9cef3fe56d6d49d3e4a4d57ec`)
+
 The full model repository contains **77 trained PyTorch checkpoint files** (7 fingerprint types $\times$ 10 CV folds + 7 full models), totaling **~2.6 GB**.
 
 ### Web-UI Drag-and-Drop Upload Guide (For Jixing)
@@ -273,7 +276,7 @@ To archive the complete set of weights and obtain a citable DOI:
    - **Description**: *(Copy draft below)*
    - **Keywords**: `Polypharmacology; Chronic Kidney Disease; Deep Learning; ChEMBL 36; Target Prediction; PyTorch; Chemoinformatics`
    - **License**: `Apache License 2.0` (or `Creative Commons Attribution 4.0 International`)
-5. **Publish & Obtain DOI**: Click **"Save"** then **"Publish"**. Zenodo will immediately issue a persistent digital object identifier (e.g., `10.5281/zenodo.XXXXXXX`).
+5. **Publish & Obtain DOI**: Click **"Save"** then **"Publish"**. Zenodo will immediately issue a persistent digital object identifier (e.g., [`10.5281/zenodo.23147411`](https://doi.org/10.5281/zenodo.23147411)).
 
 ### Zenodo Description Draft
 
